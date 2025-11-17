@@ -1,0 +1,10 @@
+UserConfigs/LaptopDisplay.conf
+wallpaper_effects/.wallpaper_modified
+wallpaper_effects/.wallpaper_current
+wallust/wallust-hyprland.conf
+workspaces.conf
+monitors.conf
+ 
+
+# Files that you want to commit once but then not touch 
+# do this git update-index --skip-worktree UserConfigs/LaptopDisplay.conf 
